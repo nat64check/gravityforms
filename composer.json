@@ -1,4 +1,6 @@
 {
   "name": "nat64check/gravityforms",
-  "description": "Gravity Forms plugin for NAT64Check"
+  "description": "Gravity Forms plugin for NAT64Check",
+  "keywords": ["wordpress"],
+  "type": "wordpress-plugin"
 }
