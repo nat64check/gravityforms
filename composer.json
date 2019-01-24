@@ -2,5 +2,12 @@
   "name": "nat64check/gravityforms",
   "description": "Gravity Forms plugin for NAT64Check",
   "keywords": ["wordpress"],
-  "type": "wordpress-plugin"
+  "type": "wordpress-plugin",
+  "authors": [
+    {
+      "name": "Rocketgenius, Inc.",
+      "homepage": "https://www.rocketgenius.com"
+    }
+  ],
+  "license": "GPL-2.0-or-later"
 }
